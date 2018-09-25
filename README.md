@@ -1,8 +1,12 @@
 # Color-Palette-Generator
 Color Palette generator | iColorpalette
+
+
 icolorpalette new color tools with lots of options like,
 
-[https://icolorpalette.com/color-palette-generator/] Palettes Generator / Editor
+
+__[Color Palette Generator](https://icolorpalette.com/color-palette-generator/)__ 
+
 
 Creat new light / pastal , Dark and random color palettes. Customize your colors precisely by adjust color light / dark shade.
 
