@@ -1,7 +1,7 @@
 # Color-Palette-Generator
 Color Palette generator | iColorpalette
 
-![img](https://scontent.fmaa1-3.fna.fbcdn.net/v/t1.0-9/41257796_2094657544084829_4142959968078790656_n.png)
+![img](https://www.dropbox.com/s/hkmpobsq6e0hql5/facebookcover850.jpg)
 
 icolorpalette new color tools with lots of options like,
 
